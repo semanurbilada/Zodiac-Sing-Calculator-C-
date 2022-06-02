@@ -27,9 +27,11 @@ Enter your birth month: ( __ / '__' / ____ )
 
 Your birthday date is (24 / 4).
 
+
 So, your zodiac sign is Taurus (Boğa).
 And your zodiac group is Earth:
 They keep it real. They are the “grounded” people on the planet.
+
 
 Your horoscope features : Art and love occupy a large space in their lives, they are touchy and sensitive.
 Their stance is firm in the face of what they want in life. They have sustainable determination in line with their goals.
