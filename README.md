@@ -29,9 +29,7 @@ Your birthday date is (24 / 4).
 
 
 So, your zodiac sign is Taurus (Boğa).
-
 And your zodiac group is Earth:
-
 They keep it real. They are the “grounded” people on the planet.
 
 
