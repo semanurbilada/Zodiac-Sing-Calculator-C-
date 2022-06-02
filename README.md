@@ -18,9 +18,11 @@ Here is the 4 elements of Astrology: Zodiac Groups
 4.Water : Cancer, Scorpio, Pisces.
 
 Enter your birth day: ( '__' / __ / ____ ) 
+
 24
 
 Enter your birth month: ( __ / '__' / ____ ) 
+
 4
 
 Your birthday date is (24 / 4).
