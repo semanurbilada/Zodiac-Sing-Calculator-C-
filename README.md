@@ -19,6 +19,7 @@ Here is the 4 elements of Astrology: Zodiac Groups
 
 Enter your birth day: ( '__' / __ / ____ ) 
 24
+
 Enter your birth month: ( __ / '__' / ____ ) 
 4
 
