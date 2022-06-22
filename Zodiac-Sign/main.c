@@ -55,7 +55,6 @@ int main( )
     
     
     // for inputs:
-    
     printf("Enter your birth day: ( '__' / __ / ____ ) \n");
     scanf("%d", &day);
     
